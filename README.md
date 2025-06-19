@@ -65,8 +65,6 @@ Used **GNNExplainer** and **Grad-CAM** to identify most influential ROIs. Freque
 
 > Results suggest meaningful contribution of WM-based connectivity to ASD diagnosis, especially when paired with GM.
 
-![Result](./Figures/Figure_Result_1.png)
-
 ---
 
 ## ⚖️ Comparative Models
